@@ -14,4 +14,4 @@ The dependencies that are required for running this project successfully (or els
 3. OpenCV
 4. Keras
 
-And that's all, now our model is ready to recognize the human facial recognition with both static and dynamic data as input and that too with a high rate of accuracy.
+And that's all, now our model is ready to recognize the human facial emotions with both static and dynamic data as input and that too with a high rate of accuracy.
